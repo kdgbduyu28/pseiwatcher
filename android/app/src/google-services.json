@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158142743111",
+    "project_id": "pseiwatcher",
+    "storage_bucket": "pseiwatcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158142743111:android:1397fbcb568f4a75062762",
+        "android_client_info": {
+          "package_name": "com.example.pseiwatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158142743111-1inul13p2mese8edo1i6nbrromhgo0db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pseiwatcher",
+            "certificate_hash": "3e385d903906280a534f5c8f61d096e90fed0a31"
+          }
+        },
+        {
+          "client_id": "158142743111-7fjajikhb27bdlddp3tuc782skp88v57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAKN_MB4WS8h1liFxDmwbY1Mh7z_64OFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158142743111-7fjajikhb27bdlddp3tuc782skp88v57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
